@@ -6,9 +6,9 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://datadave.github.io/
+title:            Data Science Course Blog
+tagline:          Quantifying Uncertainty
+url:              http://datadave.github.io/courseblog
 paginate:         1
 baseurl:          /courseblog
 author:
@@ -19,4 +19,4 @@ author:
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/datadave/
+  repo:           https://github.com/datadave/courseblog
