@@ -10,7 +10,7 @@ title:            Data Science Course Blog
 tagline:          Quantifying Uncertainty
 #url:              http://datadave.github.io
 paginate:         1
-baseurl:          /courseblog
+baseurl:          /courseblog/
 author:
   name:           Dave Goodsmith
   url:            https://twitter.com/thegoodsmith
