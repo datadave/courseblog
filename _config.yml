@@ -1,22 +1,4 @@
-ls# Dependencies
-markdown:         redcarpet
-pygments:         true
-
-# Permalinks
-permalink:        pretty
-
-# Setup
-title:            Data Science Course Blog
-tagline:          Quantifying Uncertainty
-#url:             http://datadave.github.io
-paginate:         1
-baseurl:          /courseblog/
-author:
-  name:           Dave Goodsmith
-  url:            https://twitter.com/thegoodsmith
-  email:          
-
-# Custom vars
-version:          1.0.0
-github:
-  repo:           https://github.com/datadave/datadave.github.io/courseblog
+name: Your New Jekyll Site
+markdown: redcarpet
+pygments: true
+baseurl: /courseblog
