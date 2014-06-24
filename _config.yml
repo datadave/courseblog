@@ -6,10 +6,10 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Course Journal
+title:            Data Science Course Blog
 tagline:          'Data Science for an Expanding Universe'
-description:      'A home for musings and showcases for the exposition of datonic mastifications'
-url:              http://lanyon.getpoole.com
+description:      'Featuring work, thoughts and discussions from GA DAT 9'
+url:              datadave.github.io/courseblog/
 baseurl: /courseblog
 
 author:
