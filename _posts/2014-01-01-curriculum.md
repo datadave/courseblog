@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Sample Curriculum
+title: Sample Data Science Course Curriculum
 ---
-## Dave Goodsmith
-### Sample Data Science Course Curriculum
 
 
 # Unit 1: The Basics
